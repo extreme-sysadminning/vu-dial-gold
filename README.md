@@ -2,4 +2,4 @@
 
 It explains itself, innit?
 
-![PXL_20240113_202144870](https://github.com/extreme-sysadminning/vu-dial-gold/PXL_20240113_202144870.jpg)
+![Image of the result of the vu-dial-gold script](https://raw.githubusercontent.com/extreme-sysadminning/vu-dial-gold/main/PXL_20240113_202144870.jpg)
