@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# (C) Karsten Kruse 2024, <tecneeq@tecneeq.de>
-# Licensed with the BSD-2-Clause license
-
 # Copyright 2024 Karsten Kruse <tecneeq@tecneeq.de> www.tecneeq.de
 #
 # Redistribution and use in source and binary forms, with or without
