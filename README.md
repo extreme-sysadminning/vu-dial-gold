@@ -14,7 +14,11 @@ If it's hovering somewhere around +-0%, the LED is white.
 
 TODO:
   * replace wget with curl
+  * move API keys to a configuration file
   * upload a image that matches your deviation from the current price. What if it's +20%?
   * inject the actual spot and average prices into the image!
   * Find a better 1-Bit-font
   * Maybe write an attract mode where the needle moves about and the colors change, for fun ;-)
+  * Add Yen and Pound as currency
+  * Use shellcheck
+  * Command line parameter and option parsing for help, debug and so on
