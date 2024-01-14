@@ -58,7 +58,6 @@ percent=$(echo $scraped_price $average_price_paid | awk '{print (($1-$2)/$1*100)
 echo "The average price paid was $average_price_paid $currency, at $scraped_price $currency current price that is a $percent % deviation. I hope it fits to your background."
 
 # make sure you have the right background, if not, set it
-
 if [ -f vu-dial-gold.png ] ; then
   echo -n "Updating image: "
   curl -X POST -F "imgfile=@vu-dial-gold.png" "$dial_protocoll://$dial_apiserver:$dial_apiport/api/v0/dial/$dial_uuid/image/set?key=$dial_apikey&imgfile=vu-dial-gold.png" ; echo
